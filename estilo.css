@@ -1,0 +1,18 @@
+html, body {
+    width: 100%;
+}
+
+#panel-izquierdo {
+    width: 30%;
+    height: 100%;
+    position: fixed;
+}
+
+#panel-derecho {
+    width: 80%;
+    margin-left: 30%;
+}
+
+#foto-perfil {
+    width: 200px;
+}
